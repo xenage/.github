@@ -13,4 +13,4 @@
 - Event-driven agent architecture
 - High Availability friendly
 
-[xenage](htpps://github.com/xenage/xenage)
+Monorepo: [xenage](https://github.com/xenage/xenage)
